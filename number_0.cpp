@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-	cout<<"Hello Borov"<<endl; //Govno kod
+	cout << "Hello Borov" << endl;
 
 	return 0;
 }

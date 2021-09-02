@@ -36,7 +36,7 @@ int main() {
 	char symbol[] = { 'a', 'u', 'e', 'o', 'y', 'i' };
 	int test_1[6], test_2[6], test_3[6];
 	int a[] = { 4, 4, 0, 0, 0, 0 };
-	int b[] = { 0, 0, 0, 0, 0, 0 }; 
+	int b[] = { 0, 0, 0, 0, 0, 0 };
 	int c[] = { 1, 2, 3, 1, 5, 8 };
 	for (int i = 0; i < (sizeof(symbol) / sizeof(symbol[0])); i++) {
 		test_1[i] = *(func("etu etu etu") + i);
